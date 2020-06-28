@@ -1,5 +1,5 @@
 # Thespis
 
-> TBD
+> Actor Model library for JavaScript environments
 
 > **THIS LIBRARY STILL IN EARLY DEVELOPMENT, IT'S NOT STABLE, AND USAGE IN PRODUCTION IS NOT RECOMMENDED YET.**
