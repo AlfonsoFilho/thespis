@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/AlfonsoFilho/thespis.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Alfonso Filho",
+    "email": "alfonsocfilho@gmail.com"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AlfonsoFilho/thespis/issues"
   },
